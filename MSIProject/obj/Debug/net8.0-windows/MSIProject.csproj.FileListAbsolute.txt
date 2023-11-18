@@ -1,0 +1,17 @@
+C:\Users\wlhyu\Downloads\MSIProject\bin\Debug\net8.0-windows\MSIProject.exe
+C:\Users\wlhyu\Downloads\MSIProject\bin\Debug\net8.0-windows\MSIProject.deps.json
+C:\Users\wlhyu\Downloads\MSIProject\bin\Debug\net8.0-windows\MSIProject.runtimeconfig.json
+C:\Users\wlhyu\Downloads\MSIProject\bin\Debug\net8.0-windows\MSIProject.dll
+C:\Users\wlhyu\Downloads\MSIProject\bin\Debug\net8.0-windows\MSIProject.pdb
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.Form1.resources
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.Window.resources
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.csproj.GenerateResource.cache
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.AssemblyInfoInputs.cache
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.AssemblyInfo.cs
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.csproj.CoreCompileInputs.cache
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.dll
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\refint\MSIProject.dll
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.pdb
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\MSIProject.genruntimeconfig.cache
+C:\Users\wlhyu\Downloads\MSIProject\obj\Debug\net8.0-windows\ref\MSIProject.dll
