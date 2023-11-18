@@ -1,9 +1,23 @@
 html{
     font-family: sans-serif;
 }
+
 body{
-    margin: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header{
+    margin-left: -50px;
+}
+
+h1{
+    background-color: #016faf;
+    color: white;
+    margin: 10px;
+    padding: 10px;
 }
 
 .logo{
@@ -21,8 +35,8 @@ body{
     width: 100px;
     height: 100px; 
     border: 1px solid black;
+    border-radius: 8px;
     display: inline-block;
-    /*vertical-align: middle;*/
 }
 
 .PC-E{
@@ -34,5 +48,6 @@ body{
 }
 .content{
     text-align: center;
+    margin-top:5px;
 }
 
