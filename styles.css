@@ -1,0 +1,38 @@
+html{
+    font-family: sans-serif;
+}
+body{
+    margin: 40px;
+    margin-top: 10px;
+}
+
+.logo{
+    width: 400px;
+}
+
+.row{
+    width: 900px;
+    height: 100px;
+    position: relative;
+    margin: 10px;
+}
+
+.PC, .PC-E, .PC-EE {
+    width: 100px;
+    height: 100px; 
+    border: 1px solid black;
+    display: inline-block;
+    /*vertical-align: middle;*/
+}
+
+.PC-E{
+    margin-left: 100px;
+}
+
+.PC-EE{
+    margin-left: 205px;
+}
+.content{
+    text-align: center;
+}
+
