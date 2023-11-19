@@ -12,7 +12,7 @@ login[3] = true;
 var today = new Date();
 const dateString = new Date().toLocaleString([],{
     year: 'numeric', month: 'numeric', day: 'numeric',
-    hour: '2-digit',minute: '2-digit'
+    hour: '2-digit',minute: '2-digit' 
 });
 document.getElementById("time").innerHTML = dateString;
 
