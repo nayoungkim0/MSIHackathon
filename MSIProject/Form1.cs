@@ -19,6 +19,7 @@ namespace MSIProject
         string inputEmail;
         int passcode;
         int passcodeIdx;
+        string passcodeInput;
 
         public Form1()
         {
@@ -82,13 +83,21 @@ namespace MSIProject
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            passcodeInput = textBox2.Text;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
 
-
+            if(passcodeInput == passcode.ToString())
+            {
+                MessageBox.Show("Log in Successful.");
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Your passcode is incorrect. Try again.");
+            }
 
         }
 
