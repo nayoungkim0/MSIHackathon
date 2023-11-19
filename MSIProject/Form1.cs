@@ -14,15 +14,20 @@ namespace MSIProject
 {
     public partial class Form1 : Form
     {
-        string inputEmail;
         public Form1()
         {
             InitializeComponent();
+
         }
 
-        private void pwGenerated()
+        static void Main() { } 
+
+        string inputEmail;
+        int[] pwArray;
+
+        private void pwGenerated(object sender, EventArgs s)
         {
-            int[] pwArray = new int[20];
+            pwArray = new int[20];
 
             for (int i = 0; i < pwArray.Length; i++)
             {
@@ -30,6 +35,7 @@ namespace MSIProject
                 pwArray[i] = random.Next(100000, 999999);
             }
         }
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             inputEmail = textBox1.Text;
@@ -39,10 +45,7 @@ namespace MSIProject
         {
             if (inputEmail.Substring(inputEmail.Length - 9) == "@ucsd.edu")
             {
-
-
-
-
+                    
             }
             else
             {
