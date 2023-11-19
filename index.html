@@ -5,14 +5,15 @@
     <title>TEC PC</title>
 </head>
 <body>
-    <script src="myscripts.js"></script>
     <header>
         <a href="https://recreation.ucsd.edu/">
         <img src="Rec_logo.jpg" class="logo"></a> 
     </header>
-    <h1>Triton Esports Center PC Status</h1>
+    <h1 id="d">Triton Esports Center PC Status</h1>
+    <p> Current time: <span id="time"></span> </p>
     <div class="row">
-        <div class="PC"><div class="content"> D1 </div> </div>
+        <div class="PC"><div class="content"> D1 <br>
+            <span id="status"> Status</span> </div> </div>
         <div class="PC"><div class="content"> D2 </div> </div>
         <div class="PC"><div class="content"> D3 </div> </div>
         <div class="PC"><div class="content"> D4 </div> </div>
@@ -45,5 +46,6 @@
         <div class="PC"><div class="content"> A5 </div> </div>
         <div class="PC-EE"><div class="content"> E4 </div> </div>
     </div>
+    <script src="myscripts.js"></script>
 </body>
 </html>
