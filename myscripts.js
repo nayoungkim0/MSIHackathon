@@ -16,7 +16,10 @@ let Timelogin = new Array(26); //login time array
 Timelogin[3] = new Date(2023,10,19,14,0,0);
 Timelogin[10] = new Date(2023,10,19,13,0,0);
 
-//document.getElementById("login").textContent = logString;          //checks the login time 
+let code = @;
+//let code = $("#<%=passcode%>");
+
+document.querySelector(".here").textContent = code;          //checks the login time 
 
 function getUsingtime(startTime, currentTime){
     let diffms = Math.abs(currentTime-startTime)/1000;
